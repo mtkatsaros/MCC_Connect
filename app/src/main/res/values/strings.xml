@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">MCC Connect</string>
+    <string name="splash_text">Connect</string>
+    <string name="welcome_message">Welcome to MCC Connect!</string>
+    <string name="login_prompt">Please sign in to your account.</string>
+    <string name="login_action">Log in</string>
+    <string name="create_account">Create an account</string>
+    <string name="create_button">CREATE</string>
+    <string name="email">Enter email address</string>
+    <string name="password">Enter password</string>
+    <string name="exit">exit</string>
+    <string name="submit">Submit</string>
+    <string name="success">Success!</string>
+    <string name="review_another">New Review</string>
+    <string name="menu">Menu</string>
+    <string name="submitted">Your review has been submitted.</string>
+    <string name="comment">Enter comment here...</string>
+    <string name="logout">Log out</string>
+    <string name="reviews_all">Your Reviews</string>
+    <string name="department">Select a department:</string>
+    <string name="first_name">Enter first name</string>
+    <string name="last_name">Last name</string>
+    <string name="stars_number">Number of stars:</string>
+    <string name="traffic_today">Today\'s traffic:</string>
+    <string name="review_write">Write a review</string>
+</resources>

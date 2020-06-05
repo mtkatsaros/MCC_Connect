@@ -1,0 +1,2 @@
+rootProject.name='MCC Connect'
+include ':app'
